@@ -1,5 +1,7 @@
 # API-Bootcamp
 
+Att förstå hur man jobbar mot API:er är väsentlig kunskap för frontendutvecklare! Bemästrar man den tekniken finns det ingen hejd på coola tjänster som kan byggas 😃
+
 ## Övning 1:
 1. Hämta alla pokemons genom en fetch mot API'et
 
