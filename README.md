@@ -36,4 +36,4 @@ Att förstå hur man jobbar mot API:er är väsentlig kunskap för frontendutvec
    
 ### attending: true
 
-3. Rendera enbart ut de som skall komma OCH som har allergie
+3. Rendera enbart ut de som skall komma OCH som har allergier
